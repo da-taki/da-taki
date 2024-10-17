@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding(Obv), gaming, watching anime, Songs and table tennis
 - 🌱 I’m currently learning Tensorflow and C++
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me insta :- _tera_nhi_ and discord :- da_taki_boi
+- 📫 How to reach me discord :- da_taki_boi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: sometimes I feel like I have a god complex and people around me sometimes get annoyed because im just that cool/ talkative
 
