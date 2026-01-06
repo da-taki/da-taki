@@ -18,12 +18,6 @@ If it’s experimental, accessibility-focused, or hard to get right, I’m proba
 
 ---
 
-## Tech
-Python · PyTorch · Flask · Git · Linux
-
----
-
 ## Contact Me
-- **Don't**
 - Email: singhtaknoor@gmail.com
-
+(Only if you have a specific reason.)
