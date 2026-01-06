@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @da-taki
-- 👀 I’m interested in Coding(Obv), gaming, watching anime, Songs and table tennis
-- 🌱 I’m currently learning Tensorflow and C++
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me discord :- da_taki_boi
-- 😄 Pronouns: He/Him
+# Taknoor Singh (da-taki)
 
-<!---
-da-taki/da-taki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build **research-driven AI and developer tools**.  
+If it’s experimental, accessibility-focused, or hard to get right, I’m probably working on it.
+
+---
+
+## Work
+- AI / ML systems & experiments  
+- Research-oriented engineering  
+- Developer tools with real constraints
+
+---
+
+## Projects
+- **Code_Up** - Blind-friendly, voice-controlled coding assistant  
+- **Hiesenoether** - Experimental language inspired by symmetry & invariants
+
+---
+
+## Tech
+Python · PyTorch · Flask · Git · Linux
+
+---
+
+## Contact Me
+- **Don't**
+- Email: singhtaknoor@gmail.com
+
